@@ -6,8 +6,8 @@ namespace Form
 {
     class Droit
     {
-        Point A;
-        Point B;
+        private Point A;
+        private Point B;
 
 
 
