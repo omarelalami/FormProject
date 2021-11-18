@@ -1,0 +1,14 @@
+C:\Users\omar_\Desktop\TP C#\Form\Form\bin\Debug\netcoreapp3.1\Form.exe
+C:\Users\omar_\Desktop\TP C#\Form\Form\bin\Debug\netcoreapp3.1\Form.deps.json
+C:\Users\omar_\Desktop\TP C#\Form\Form\bin\Debug\netcoreapp3.1\Form.runtimeconfig.json
+C:\Users\omar_\Desktop\TP C#\Form\Form\bin\Debug\netcoreapp3.1\Form.runtimeconfig.dev.json
+C:\Users\omar_\Desktop\TP C#\Form\Form\bin\Debug\netcoreapp3.1\Form.dll
+C:\Users\omar_\Desktop\TP C#\Form\Form\bin\Debug\netcoreapp3.1\Form.pdb
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.csproj.AssemblyReference.cache
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.AssemblyInfoInputs.cache
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.AssemblyInfo.cs
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.csproj.CoreCompileInputs.cache
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.dll
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.pdb
+C:\Users\omar_\Desktop\TP C#\Form\Form\obj\Debug\netcoreapp3.1\Form.genruntimeconfig.cache
