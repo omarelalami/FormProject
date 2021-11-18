@@ -49,7 +49,12 @@ namespace Form
             return b;
         }
 
-       
+        public bool Appartenance (Point p)
+        { bool b = false;
+            if ((p.getCordX() - A.getCordX()) * (A.getCordY() - B.getCordY()) == (p.getCordY() - A.getCordY()) * (A.getCordX() - B.getCordX()))
+                 b = true;
+            return b;
+        }
 
 
 
