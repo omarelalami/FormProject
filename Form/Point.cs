@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -7,7 +7,7 @@ namespace Form
  
     class Point
     {
-        private double x;
+        private double x; 
         private double y;
         private double z;
         public Point(double x,double y) {
@@ -22,9 +22,7 @@ namespace Form
             this.z = z;
 
         }
-
-        
-       public  bool Egalité(Point p)
+        public  bool Egalité(Point p)
         {
             bool m = false;
             if (x == p.x && y == p.y && z == p.z)
@@ -40,7 +38,7 @@ namespace Form
             double xd = Math.Pow((p.x - x),2);
             double yd = Math.Pow((p.y - y),2);
             double zd = Math.Pow((p.z - z),2);
-            d=Math.Sqrt(xd-yd-zd);
+            d=Math.Sqrt(xd+yd+zd);
 
 
             return d;
@@ -58,6 +56,11 @@ namespace Form
            return  this.z;
 
         }
-
+        public void setCordX(double x)
+        { this.x = x; }
+        public void setCordY(double y)
+        { this.y = y; }
+        public void setCordZ(double z)
+        { this.z = z; }
     }
 }
